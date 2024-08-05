@@ -1,2 +1,2 @@
 # streamlit_chatbot
-Create a chatbot by using streamlit
+Create an AI chatbot by using streamlit
