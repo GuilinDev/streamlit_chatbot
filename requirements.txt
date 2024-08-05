@@ -1,3 +1,6 @@
 matplotlib
 streamlit
 pandas
+pydantic
+langchain
+langchain_community
